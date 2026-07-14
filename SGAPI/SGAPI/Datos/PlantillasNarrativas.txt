@@ -1,0 +1,1089 @@
+[TITULO]
+Lesionado por percance vehicular entre particulares
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un percance vehicular entre particulares con persona lesionada, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localizan los vehículos involucrados, así como una persona lesionada, misma que es valorada por servicios médicos en el lugar.
+
+Se brinda apoyo con el resguardo de la zona y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Lesionados por percance vehicular entre particulares
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un percance vehicular entre particulares con personas lesionadas, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localizan los vehículos involucrados, así como personas lesionadas, mismas que son valoradas por servicios médicos.
+
+Se brinda apoyo con el resguardo de la zona y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Lesionado por percance vehicular entre particular y motocicleta
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un percance vehicular entre un vehículo particular y una motocicleta, con una persona lesionada, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localizan los vehículos involucrados, así como una persona lesionada, misma que es valorada por servicios médicos.
+
+Se brinda apoyo con el abanderamiento y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Lesionados por percance vehicular entre particular y motocicleta
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un percance vehicular entre un vehículo particular y una motocicleta, con personas lesionadas, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localizan los vehículos involucrados, así como personas lesionadas, mismas que son valoradas por servicios médicos.
+
+Se brinda apoyo con el abanderamiento y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Lesionado por choque contra objeto fijo
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un percance vehicular contra objeto fijo, con persona lesionada, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo involucrado impactado contra un objeto fijo, así como una persona lesionada, misma que es valorada por servicios médicos.
+
+Se brinda apoyo con el resguardo de la zona y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Lesionados por volcadura
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una volcadura con personas lesionadas, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo involucrado, así como personas lesionadas, mismas que son valoradas por servicios médicos.
+
+Se brinda apoyo con el resguardo de la zona, abanderamiento y regulación de la circulación.
+[FIN]
+
+[TITULO]
+Lesionado por atropellamiento
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una persona lesionada por atropellamiento, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza a la persona lesionada, misma que es valorada por servicios médicos.
+
+Se brinda apoyo con el resguardo de la zona y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Lesionados por atropellamiento
+[TEXTO]
+Derivado del reporte del 911, en el que informan de personas lesionadas por atropellamiento, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localizan las personas lesionadas, mismas que son valoradas por servicios médicos.
+
+Se brinda apoyo con el resguardo de la zona y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Fallecido por percance vehicular
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un percance vehicular con una persona fallecida, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo involucrado, así como una persona sin vida, por lo que se realiza el resguardo de la zona.
+
+Se brinda apoyo con la regulación de la circulación en espera de las autoridades correspondientes.
+[FIN]
+
+[TITULO]
+Fallecidos por percance vehicular
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un percance vehicular con personas fallecidas, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localizan los vehículos involucrados, así como personas sin vida, por lo que se realiza el resguardo de la zona.
+
+Se brinda apoyo con la regulación de la circulación en espera de las autoridades correspondientes.
+[FIN]
+
+[TITULO]
+Persona prensada por percance vehicular
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una persona prensada derivado de un percance vehicular, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo involucrado, así como una persona atrapada al interior, por lo que se solicita apoyo de servicios de emergencia.
+
+Se brinda apoyo con el resguardo de la zona y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Lesionado por percance vehicular con unidad de transporte público
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un percance vehicular en el que participa una unidad de transporte público, con persona lesionada, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localizan los vehículos involucrados, así como una persona lesionada, misma que es valorada por servicios médicos.
+
+Se brinda apoyo con el abanderamiento y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Lesionados por percance vehicular con unidad de transporte público
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un percance vehicular en el que participa una unidad de transporte público, con personas lesionadas, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localizan los vehículos involucrados, así como personas lesionadas, mismas que son valoradas por servicios médicos.
+
+Se brinda apoyo con el abanderamiento y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Lesionado por percance vehicular con tráiler
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un percance vehicular en el que participa un vehículo de carga pesada, con persona lesionada, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localizan los vehículos involucrados, así como una persona lesionada, misma que es valorada por servicios médicos.
+
+Se brinda apoyo con el abanderamiento y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Lesionados por percance vehicular con tráiler
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un percance vehicular en el que participa un vehículo de carga pesada, con personas lesionadas, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localizan los vehículos involucrados, así como personas lesionadas, mismas que son valoradas por servicios médicos.
+
+Se brinda apoyo con el abanderamiento y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Motociclista lesionado por derrape
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un motociclista lesionado por derrape, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza al motociclista lesionado, mismo que es valorado por servicios médicos.
+
+Se brinda apoyo con el abanderamiento y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Motociclista lesionado por percance vehicular
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un motociclista lesionado derivado de un percance vehicular, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza la motocicleta involucrada, así como el motociclista lesionado, mismo que es valorado por servicios médicos.
+
+Se brinda apoyo con el resguardo de la zona y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Ciclista lesionado por percance vehicular
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un ciclista lesionado derivado de un percance vehicular, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza al ciclista lesionado, mismo que es valorado por servicios médicos.
+
+Se brinda apoyo con el resguardo de la zona y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Peatón lesionado por percance vehicular
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un peatón lesionado derivado de un percance vehicular, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza al peatón lesionado, mismo que es valorado por servicios médicos.
+
+Se brinda apoyo con el resguardo de la zona y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Menor lesionado por percance vehicular
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un menor lesionado derivado de un percance vehicular, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza al menor lesionado, mismo que es valorado por servicios médicos.
+
+Se brinda apoyo con el resguardo de la zona y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Persona inconsciente por percance vehicular
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una persona inconsciente derivado de un percance vehicular, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza a la persona inconsciente, misma que es valorada por servicios médicos.
+
+Se brinda apoyo con el resguardo de la zona y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Percance vehicular sin lesionados
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un percance vehicular sin personas lesionadas, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localizan los vehículos involucrados y sus conductores, sin que se reporten personas lesionadas.
+
+Se brinda apoyo con la circulación mientras se realizan las acciones correspondientes.
+[FIN]
+
+[TITULO]
+Percance vehicular con daños al municipio
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un percance vehicular con daños a infraestructura municipal, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localizan los vehículos involucrados, así como daños ocasionados a bienes del municipio.
+
+Se procede conforme al protocolo correspondiente para garantizar la reparación de los daños ocasionados.
+[FIN]
+
+[TITULO]
+Percance vehicular con fuga de conductor
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un percance vehicular donde uno de los conductores se retira del lugar, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo afectado y se recaba la información proporcionada por la parte reportante.
+
+Se brinda apoyo con la circulación y se orienta a la persona afectada sobre el procedimiento correspondiente.
+[FIN]
+
+[TITULO]
+Percance vehicular con vehículo abandonado
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un percance vehicular con un vehículo abandonado en el lugar, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo involucrado, sin conductor presente.
+
+Se brinda apoyo con el resguardo de la zona y se solicita lo conducente para el retiro del vehículo.
+[FIN]
+
+[TITULO]
+Vehículo incendiado tras percance vehicular
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un vehículo incendiado derivado de un percance vehicular, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo involucrado con presencia de fuego, por lo que se solicita apoyo de bomberos.
+
+Se brinda apoyo con el resguardo de la zona y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Vehículo volcado sobre la vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un vehículo volcado sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo involucrado obstruyendo parcialmente la circulación.
+
+Se brinda apoyo con el abanderamiento y se solicita el apoyo correspondiente para su retiro.
+[FIN]
+
+[TITULO]
+Vehículo impactado contra poste
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un vehículo impactado contra un poste, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo involucrado, así como daños ocasionados al poste.
+
+Se brinda apoyo con el resguardo de la zona y se solicita la presencia de la dependencia correspondiente.
+[FIN]
+
+[TITULO]
+Vehículo impactado contra semáforo
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un vehículo impactado contra un semáforo, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo involucrado, así como daños al dispositivo de control vial.
+
+Se brinda apoyo con la regulación de la circulación y se solicita la presencia de la dependencia correspondiente.
+[FIN]
+
+[TITULO]
+Vehículo impactado contra finca
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un vehículo impactado contra una finca, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo involucrado, así como daños ocasionados al inmueble.
+
+Se brinda apoyo con el resguardo de la zona y se procede conforme corresponda.
+[FIN]
+
+[TITULO]
+Vehículo impactado contra árbol
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un vehículo impactado contra un árbol, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo involucrado, así como daños ocasionados al árbol.
+
+Se brinda apoyo con el resguardo de la zona y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Choque múltiple entre particulares
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un choque múltiple entre vehículos particulares, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localizan los vehículos involucrados y sus conductores.
+
+Se brinda apoyo con la regulación de la circulación mientras se realizan las acciones correspondientes.
+[FIN]
+
+[TITULO]
+Choque entre transporte público y particular
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un choque entre una unidad de transporte público y un vehículo particular, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localizan los vehículos involucrados y sus conductores.
+
+Se brinda apoyo con la regulación de la circulación mientras se realizan las acciones correspondientes.
+[FIN]
+
+[TITULO]
+Choque entre motocicleta y particular
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un choque entre una motocicleta y un vehículo particular, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localizan los vehículos involucrados y sus conductores.
+
+Se brinda apoyo con el abanderamiento y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Choque entre motocicleta y peatón
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un choque entre una motocicleta y un peatón, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza a las personas involucradas, procediendo a solicitar valoración médica de ser necesario.
+
+Se brinda apoyo con el resguardo de la zona y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Choque entre unidad de carga y particular
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un choque entre una unidad de carga y un vehículo particular, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localizan los vehículos involucrados y sus conductores.
+
+Se brinda apoyo con la regulación de la circulación mientras se realizan las acciones correspondientes.
+[FIN]
+
+[TITULO]
+Apoyo vial por manifestación
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una manifestación con afectación a la circulación, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza un grupo de personas realizando manifestación en la vía pública.
+
+Se brinda apoyo con la regulación de la circulación y el resguardo preventivo de la zona.
+[FIN]
+
+[TITULO]
+Apoyo vial por evento deportivo
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un evento deportivo con afluencia de personas y vehículos, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se observa afluencia de asistentes, por lo que se brinda apoyo con la regulación de la circulación.
+
+Se mantiene presencia preventiva para evitar afectaciones mayores en la zona.
+[FIN]
+
+[TITULO]
+Apoyo vial por evento deportivo en Estadio Akron
+[TEXTO]
+Con motivo de evento deportivo en el Estadio Akron, se asigna a la unidad ________ para brindar apoyo vial en la zona.
+
+En el lugar se observa afluencia de personas y vehículos, por lo que se realiza regulación de la circulación en los puntos de mayor carga vehicular.
+
+Se mantiene presencia preventiva durante el desarrollo del evento.
+[FIN]
+
+[TITULO]
+Apoyo vial por evento deportivo en Estadio Jalisco
+[TEXTO]
+Con motivo de evento deportivo en el Estadio Jalisco, se asigna a la unidad ________ para brindar apoyo vial en la zona.
+
+En el lugar se observa afluencia de personas y vehículos, por lo que se realiza regulación de la circulación en los puntos de mayor carga vehicular.
+
+Se mantiene presencia preventiva durante el desarrollo del evento.
+[FIN]
+
+[TITULO]
+Apoyo vial por carrera deportiva
+[TEXTO]
+Con motivo de una carrera deportiva, se asigna a la unidad ________ para brindar apoyo vial en el recorrido establecido.
+
+Se realiza regulación de la circulación y apoyo preventivo en los puntos de cierre y desvío.
+
+El servicio se mantiene hasta la liberación de la vialidad.
+[FIN]
+
+[TITULO]
+Apoyo vial por peregrinación
+[TEXTO]
+Derivado de una peregrinación sobre la vía pública, se asigna a la unidad ________ para brindar apoyo vial durante el recorrido.
+
+Se realiza acompañamiento preventivo y regulación de la circulación para salvaguardar a los participantes.
+
+Se mantiene el apoyo hasta la liberación de la vialidad.
+[FIN]
+
+[TITULO]
+Apoyo vial por cierre de circulación
+[TEXTO]
+Derivado del cierre de circulación en el punto referido, se asigna a la unidad ________ para brindar apoyo vial en la zona.
+
+Se realiza regulación de la circulación y orientación a los conductores sobre rutas alternas.
+
+Se mantiene presencia preventiva hasta la normalización del flujo vehicular.
+[FIN]
+
+[TITULO]
+Apoyo vial por obras públicas
+[TEXTO]
+Derivado de trabajos de obras públicas en la vía pública, se asigna a la unidad ________ para brindar apoyo vial en la zona.
+
+En el lugar se realizan labores que afectan parcialmente la circulación, por lo que se implementa regulación vial.
+
+Se mantiene apoyo preventivo hasta que las condiciones de la vialidad lo permitan.
+[FIN]
+
+[TITULO]
+Apoyo vial por inundación
+[TEXTO]
+Derivado del reporte del 911, en el que informan de inundación sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se observa acumulación de agua que afecta la circulación vehicular.
+
+Se brinda apoyo con el cierre parcial o regulación de la vialidad, según las condiciones del punto.
+[FIN]
+
+[TITULO]
+Apoyo vial por falla de semáforos
+[TEXTO]
+Derivado del reporte del 911, en el que informan de falla en los semáforos del cruce referido, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se confirma la falla del sistema semafórico, por lo que se realiza regulación manual de la circulación.
+
+Se solicita la atención del área correspondiente.
+[FIN]
+
+[TITULO]
+Apoyo vial por vehículo descompuesto
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un vehículo descompuesto obstruyendo la circulación, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo referido con afectación parcial a la vialidad.
+
+Se brinda apoyo con el abanderamiento y se orienta al conductor para el retiro de la unidad.
+[FIN]
+
+[TITULO]
+Apoyo vial por carga pesada
+[TEXTO]
+Derivado de la circulación o maniobra de una unidad de carga pesada, se asigna a la unidad ________ para brindar apoyo vial en la zona.
+
+Se realiza regulación de la circulación a fin de prevenir riesgos y agilizar el flujo vehicular.
+
+Se mantiene el apoyo hasta concluir la maniobra o liberar la vialidad.
+[FIN]
+
+[TITULO]
+Apoyo vial por arrastre de vehículo
+[TEXTO]
+Derivado del arrastre de un vehículo en el punto referido, se asigna a la unidad ________ para brindar apoyo vial.
+
+Se realiza abanderamiento y regulación de la circulación mientras se efectúan las maniobras correspondientes.
+
+Se libera la vialidad al concluir el servicio.
+[FIN]
+
+[TITULO]
+Apoyo vial por visita oficial
+[TEXTO]
+Con motivo de visita oficial en la zona, se asigna a la unidad ________ para brindar apoyo vial preventivo.
+
+Se realiza regulación de la circulación y apoyo en los puntos establecidos.
+
+Se mantiene presencia durante el desarrollo del servicio.
+[FIN]
+
+[TITULO]
+Apoyo vial por desfile
+[TEXTO]
+Con motivo de desfile sobre la vía pública, se asigna a la unidad ________ para brindar apoyo vial durante el recorrido.
+
+Se realiza cierre parcial, regulación de circulación y orientación a los conductores.
+
+Se mantiene el apoyo hasta la conclusión del evento.
+[FIN]
+
+[TITULO]
+Apoyo vial por operativo vacacional
+[TEXTO]
+Con motivo del operativo vacacional, se asigna a la unidad ________ para brindar apoyo preventivo y vial en la zona.
+
+Se realiza presencia preventiva, orientación a conductores y regulación de la circulación cuando es necesario.
+
+El servicio se mantiene conforme a las indicaciones operativas.
+[FIN]
+
+[TITULO]
+Apoyo vial por evento masivo
+[TEXTO]
+Con motivo de evento masivo en la zona, se asigna a la unidad ________ para brindar apoyo vial preventivo.
+
+En el lugar se observa afluencia de personas y vehículos, por lo que se realiza regulación de la circulación.
+
+Se mantiene presencia preventiva hasta la conclusión del evento.
+[FIN]
+
+[TITULO]
+Apoyo vial por accidente ferroviario
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un accidente ferroviario con afectación a la circulación, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se confirma la presencia del incidente, por lo que se resguarda la zona.
+
+Se brinda apoyo con la regulación de la circulación en coordinación con las autoridades correspondientes.
+[FIN]
+
+[TITULO]
+Apoyo vial por cable caído
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un cable caído sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el cable con posible riesgo para peatones y vehículos.
+
+Se resguarda la zona y se solicita la presencia de la empresa o dependencia correspondiente.
+[FIN]
+
+[TITULO]
+Manifestación sobre la vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una manifestación sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza un grupo de personas manifestándose en el punto referido.
+
+Se mantiene presencia preventiva y se brinda apoyo con la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Concentración de personas sobre la vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de concentración de personas sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se observa un grupo de personas concentradas en el punto referido.
+
+Se mantiene presencia preventiva y se brinda apoyo vial en caso de afectación a la circulación.
+[FIN]
+
+[TITULO]
+Bloqueo de circulación por manifestantes
+[TEXTO]
+Derivado del reporte del 911, en el que informan de bloqueo de circulación por manifestantes, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza un grupo de personas obstruyendo la circulación en el punto referido.
+
+Se brinda apoyo con la regulación de la circulación y se informa a las autoridades correspondientes.
+[FIN]
+
+[TITULO]
+Evento masivo con afectación vial
+[TEXTO]
+Derivado de evento masivo con afectación vial, se asigna a la unidad ________ para brindar apoyo en la zona.
+
+En el lugar se observa afluencia considerable de personas y vehículos.
+
+Se realiza regulación de la circulación para reducir afectaciones y mantener la seguridad de los asistentes.
+[FIN]
+
+[TITULO]
+Vehículo abandonado sobre la vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un vehículo abandonado sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo referido, sin persona responsable presente.
+
+Se procede conforme corresponda y se brinda apoyo para evitar afectaciones a la circulación.
+[FIN]
+
+[TITULO]
+Vehículo sospechoso sobre la vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un vehículo sospechoso sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo referido, procediendo a realizar la verificación correspondiente.
+
+Se mantiene presencia preventiva en el punto.
+[FIN]
+
+[TITULO]
+Vehículo incendiándose sobre la vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un vehículo incendiándose sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se confirma el incendio del vehículo, por lo que se solicita apoyo de bomberos.
+
+Se resguarda la zona y se brinda apoyo con la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Camión descompuesto obstruyendo circulación
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un camión descompuesto obstruyendo la circulación, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza la unidad referida con afectación parcial a la vialidad.
+
+Se brinda apoyo con el abanderamiento y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Tráiler obstruyendo circulación
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un tráiler obstruyendo la circulación, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza la unidad referida generando afectación vial.
+
+Se brinda apoyo con el abanderamiento y la regulación de la circulación.
+[FIN]
+
+[TITULO]
+Carga caída sobre la vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de carga caída sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza la carga obstruyendo parcial o totalmente la circulación.
+
+Se brinda apoyo con el resguardo del punto y se solicita lo conducente para su retiro.
+[FIN]
+
+[TITULO]
+Objeto obstruyendo circulación
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un objeto obstruyendo la circulación, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el objeto referido sobre la vía pública.
+
+Se brinda apoyo con el resguardo del punto y se procede a solicitar su retiro.
+[FIN]
+
+[TITULO]
+Derrame de combustible sobre la vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de derrame de combustible sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se confirma el derrame, representando riesgo para la circulación.
+
+Se resguarda la zona y se solicita apoyo de la dependencia correspondiente.
+[FIN]
+
+[TITULO]
+Derrame de aceite sobre la vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de derrame de aceite sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se confirma el derrame, generando riesgo para los usuarios de la vía.
+
+Se resguarda la zona y se solicita apoyo de la dependencia correspondiente.
+[FIN]
+
+[TITULO]
+Semáforo derribado por percance vehicular
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un semáforo derribado por percance vehicular, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se confirma el daño al dispositivo semafórico, generando afectación a la circulación.
+
+Se brinda apoyo con la regulación vial y se solicita la presencia de la dependencia correspondiente.
+[FIN]
+
+[TITULO]
+Semáforo fuera de servicio
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un semáforo fuera de servicio, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se confirma la falla del dispositivo semafórico.
+
+Se brinda apoyo con la regulación manual de la circulación y se solicita atención del área correspondiente.
+[FIN]
+
+[TITULO]
+Falla de semáforos en cruce
+[TEXTO]
+Derivado del reporte del 911, en el que informan de falla de semáforos en el cruce referido, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se confirma la falla del sistema semafórico.
+
+Se realiza regulación manual de la circulación y se solicita la atención del área correspondiente.
+[FIN]
+
+[TITULO]
+Poste derribado sobre la vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un poste derribado sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el poste obstruyendo o generando riesgo en la vía pública.
+
+Se resguarda la zona y se solicita la presencia de la dependencia correspondiente.
+[FIN]
+
+[TITULO]
+Árbol caído sobre la vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un árbol caído sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el árbol obstruyendo parcial o totalmente la circulación.
+
+Se brinda apoyo con el resguardo del punto y se solicita apoyo de la dependencia correspondiente.
+[FIN]
+
+[TITULO]
+Árbol en riesgo de caída
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un árbol en riesgo de caída, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el árbol referido con riesgo para peatones, vehículos o inmuebles.
+
+Se resguarda la zona y se solicita apoyo de la dependencia correspondiente.
+[FIN]
+
+[TITULO]
+Rama caída sobre vehículo
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una rama caída sobre un vehículo, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo afectado por la caída de la rama.
+
+Se brinda apoyo con el resguardo del punto y se solicita la presencia de la dependencia correspondiente.
+[FIN]
+
+[TITULO]
+Inundación sobre la vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de inundación sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se observa acumulación de agua que afecta la circulación vehicular y peatonal.
+
+Se brinda apoyo con la regulación de la circulación y se informa a la dependencia correspondiente.
+[FIN]
+
+[TITULO]
+Socavón sobre la vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un socavón sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el daño en la superficie de rodamiento, representando riesgo para los usuarios de la vía.
+
+Se resguarda la zona y se solicita atención de la dependencia correspondiente.
+[FIN]
+
+[TITULO]
+Cable caído sobre la vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un cable caído sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el cable generando riesgo para peatones y vehículos.
+
+Se resguarda la zona y se solicita apoyo de la empresa o dependencia correspondiente.
+[FIN]
+
+[TITULO]
+Incendio en casa habitación
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un incendio en casa habitación, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se confirma el incendio, por lo que se brinda apoyo preventivo mientras personal de emergencia realiza las labores correspondientes.
+
+Se resguarda la zona y se apoya con la circulación.
+[FIN]
+
+[TITULO]
+Incendio en vehículo
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un incendio en vehículo, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo con presencia de fuego, por lo que se solicita apoyo de bomberos.
+
+Se resguarda la zona y se brinda apoyo con la circulación.
+[FIN]
+
+[TITULO]
+Incendio en lote baldío
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un incendio en lote baldío, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se confirma el incendio, por lo que se solicita apoyo de bomberos.
+
+Se brinda apoyo preventivo con el resguardo de la zona.
+[FIN]
+
+[TITULO]
+Incendio forestal
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un incendio forestal, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se confirma presencia de fuego en zona forestal o área verde.
+
+Se brinda apoyo preventivo y se informa a las dependencias correspondientes para su atención.
+[FIN]
+
+[TITULO]
+Fuga de gas en domicilio
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una fuga de gas en domicilio, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se confirma el reporte, por lo que se solicita apoyo de protección civil y bomberos.
+
+Se resguarda la zona de manera preventiva.
+[FIN]
+
+[TITULO]
+Fuga de gas en vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una fuga de gas en vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se confirma el olor o fuga referida, por lo que se solicita apoyo de protección civil y bomberos.
+
+Se resguarda la zona y se brinda apoyo con la circulación.
+[FIN]
+
+[TITULO]
+Explosión en domicilio
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una explosión en domicilio, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se confirma el incidente, por lo que se solicita apoyo de servicios de emergencia.
+
+Se resguarda la zona y se apoya con la circulación en el punto.
+[FIN]
+
+[TITULO]
+Persona lesionada en vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una persona lesionada en vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza a la persona lesionada, misma que es valorada por servicios médicos.
+
+Se brinda apoyo preventivo en el punto.
+[FIN]
+
+[TITULO]
+Persona inconsciente en vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una persona inconsciente en vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza a la persona referida, solicitando apoyo de servicios médicos para su valoración.
+
+Se brinda resguardo preventivo en el punto.
+[FIN]
+
+[TITULO]
+Persona agresiva en vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una persona agresiva en vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza a la persona señalada, procediendo a verificar la situación.
+
+Se mantiene presencia preventiva y se solicita apoyo en caso necesario.
+[FIN]
+
+[TITULO]
+Persona alterando el orden público
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una persona alterando el orden público, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza a la persona señalada, procediendo a verificar la situación.
+
+Se mantiene presencia preventiva en el punto.
+[FIN]
+
+[TITULO]
+Persona armada en vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una persona presuntamente armada en vía pública, se asigna a la unidad ________, la cual a su arribo verifica la situación.
+
+En el lugar se realiza la búsqueda y verificación de la persona señalada.
+
+Se mantiene presencia preventiva y se informa el resultado correspondiente.
+[FIN]
+
+[TITULO]
+Persona sospechosa en vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una persona sospechosa en vía pública, se asigna a la unidad ________, la cual a su arribo verifica la situación.
+
+En el lugar se realiza la búsqueda de la persona señalada y se mantiene presencia preventiva.
+
+Se informa el resultado correspondiente.
+[FIN]
+
+[TITULO]
+Persona tirada sobre la vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una persona tirada sobre la vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza a la persona referida, solicitando apoyo de servicios médicos para su valoración.
+
+Se brinda resguardo preventivo en el punto.
+[FIN]
+
+[TITULO]
+Persona fallecida en vía pública
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una persona inconsciente o sin vida en vía pública, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza a la persona, misma que es valorada por servicios médicos, confirmando que no cuenta con signos vitales.
+
+Se resguarda la zona en espera de las autoridades correspondientes.
+[FIN]
+
+[TITULO]
+Intento de suicidio
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una persona con intento de suicidio, se asigna a la unidad ________, la cual a su arribo verifica la situación.
+
+En el lugar se localiza a la persona referida, solicitando apoyo de servicios médicos y/o personal especializado.
+
+Se brinda resguardo preventivo en el punto.
+[FIN]
+
+[TITULO]
+Persona amenazando con arrojarse
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una persona amenazando con arrojarse desde una altura, se asigna a la unidad ________, la cual a su arribo verifica la situación.
+
+En el lugar se localiza a la persona referida, solicitando apoyo de servicios de emergencia y personal especializado.
+
+Se resguarda la zona de manera preventiva.
+[FIN]
+
+[TITULO]
+Riña con personas lesionadas
+[TEXTO]
+Derivado del reporte del 911, en el que informan de una riña con personas lesionadas, se asigna a la unidad ________, la cual a su arribo verifica la situación.
+
+En el lugar se localizan personas involucradas y lesionadas, solicitando apoyo de servicios médicos.
+
+Se mantiene presencia preventiva y se procede conforme corresponda.
+[FIN]
+
+[TITULO]
+Robo con violencia a conductor de vehículo
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un robo con violencia a conductor de vehículo, se asigna a la unidad ________, la cual a su arribo verifica la situación.
+
+En el lugar se entrevista a la parte afectada, quien refiere los hechos ocurridos.
+
+Se brinda orientación y se informa a las autoridades correspondientes.
+[FIN]
+
+[TITULO]
+Robo de vehículo con violencia
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un robo de vehículo con violencia, se asigna a la unidad ________, la cual a su arribo verifica la situación.
+
+En el lugar se entrevista a la parte afectada, quien proporciona las características del vehículo y de los presuntos causantes.
+
+Se informa a las autoridades correspondientes para su seguimiento.
+[FIN]
+
+[TITULO]
+Robo a transeúnte
+[TEXTO]
+Derivado del reporte del 911, en el que informan de un robo a transeúnte, se asigna a la unidad ________, la cual a su arribo verifica la situación.
+
+En el lugar se entrevista a la parte afectada, quien refiere los hechos ocurridos.
+
+Se brinda orientación y se informa a las autoridades correspondientes.
+[FIN]
+
+[TITULO]
+Hallazgo de vehículo robado
+[TEXTO]
+Derivado del reporte del 911, en el que informan del hallazgo de un vehículo con reporte de robo, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo referido, por lo que se procede conforme al protocolo correspondiente.
+
+Se mantiene resguardo preventivo en el punto.
+[FIN]
+
+[TITULO]
+Recuperación de vehículo robado
+[TEXTO]
+Derivado del reporte del 911, en el que informan de la recuperación de un vehículo con reporte de robo, se asigna a la unidad ________, la cual a su arribo indica que es afirmativo.
+
+En el lugar se localiza el vehículo referido, procediendo conforme al protocolo correspondiente.
+
+Se mantiene resguardo preventivo en el punto.
+[FIN]
+
+[TITULO]
+Apoyo para traslado de persona enferma
+[TEXTO]
+Derivado del reporte del 911, en el que solicitan apoyo para el traslado de una persona enferma, se asigna a la unidad ________, la cual a su arribo verifica la situación.
+
+En el lugar se localiza a la persona referida, solicitando o coordinando apoyo de servicios médicos.
+
+Se brinda apoyo preventivo hasta concluir el servicio.
+[FIN]
+
+[TITULO]
+Apoyo a unidad médica
+[TEXTO]
+Derivado del reporte del 911, en el que solicitan apoyo a una unidad médica, se asigna a la unidad ________, la cual a su arribo verifica la situación.
+
+En el lugar se brinda apoyo preventivo al personal médico durante la atención del servicio.
+
+Se mantiene presencia hasta la conclusión del apoyo.
+[FIN]
+
+[TITULO]
+Apoyo a bomberos
+[TEXTO]
+Derivado del reporte del 911, en el que se solicita apoyo a bomberos, se asigna a la unidad ________, la cual a su arribo verifica la situación.
+
+En el lugar se brinda apoyo preventivo y vial para facilitar las labores del personal de bomberos.
+
+Se mantiene presencia hasta la conclusión del servicio.
+[FIN]
+
+[TITULO]
+Apoyo a protección civil
+[TEXTO]
+Derivado del reporte del 911, en el que se solicita apoyo a personal de protección civil, se asigna a la unidad ________, la cual a su arribo verifica la situación.
+
+En el lugar se brinda apoyo preventivo y vial para facilitar las labores del personal correspondiente.
+
+Se mantiene presencia hasta la conclusión del servicio.
+[FIN]
+
+[TITULO]
+Apoyo a personal de obras públicas
+[TEXTO]
+Derivado del reporte del 911, en el que se solicita apoyo a personal de obras públicas, se asigna a la unidad ________, la cual a su arribo verifica la situación.
+
+En el lugar se brinda apoyo vial y preventivo durante las labores realizadas por el personal correspondiente.
+
+Se mantiene presencia hasta la liberación de la vialidad.
+[FIN]
+
+[TITULO]
+Apoyo a personal de SIAPA
+[TEXTO]
+Derivado del reporte del 911, en el que se solicita apoyo a personal de SIAPA, se asigna a la unidad ________, la cual a su arribo verifica la situación.
+
+En el lugar se brinda apoyo vial y preventivo durante las labores realizadas por el personal correspondiente.
+
+Se mantiene presencia hasta la liberación de la vialidad.
+[FIN]
+
+[TITULO]
+Apoyo a personal de CFE
+[TEXTO]
+Derivado del reporte del 911, en el que se solicita apoyo a personal de CFE, se asigna a la unidad ________, la cual a su arribo verifica la situación.
+
+En el lugar se brinda apoyo vial y preventivo durante las labores realizadas por el personal correspondiente.
+
+Se mantiene presencia hasta la liberación de la vialidad.
+[FIN]
+
+[TITULO]
+Apoyo a personal de telecomunicaciones
+[TEXTO]
+Derivado del reporte del 911, en el que se solicita apoyo a personal de telecomunicaciones, se asigna a la unidad ________, la cual a su arribo verifica la situación.
+
+En el lugar se brinda apoyo vial y preventivo durante las labores realizadas por el personal correspondiente.
+
+Se mantiene presencia hasta la liberación de la vialidad.
+[FIN]
