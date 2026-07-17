@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kuroneko\\Documents\\proyecto final\\SGAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8773CB2B-2E6C-33FC-34D8-BA562353F4A5}|SGAPI\\SGAPI.csproj|c:\\users\\kuroneko\\documents\\proyecto final\\sgapi\\sgapi\\formactualizaciones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8773CB2B-2E6C-33FC-34D8-BA562353F4A5}|SGAPI\\SGAPI.csproj|solutionrelative:sgapi\\formactualizaciones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8773CB2B-2E6C-33FC-34D8-BA562353F4A5}|SGAPI\\SGAPI.csproj|C:\\Users\\Kuroneko\\Documents\\proyecto final\\SGAPI\\sgapi\\formactualizaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8773CB2B-2E6C-33FC-34D8-BA562353F4A5}|SGAPI\\SGAPI.csproj|solutionrelative:sgapi\\formactualizaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormActualizaciones.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kuroneko\\Documents\\proyecto final\\SGAPI\\SGAPI\\FormActualizaciones.Designer.cs",
+              "RelativeDocumentMoniker": "SGAPI\\FormActualizaciones.Designer.cs",
+              "ToolTip": "C:\\Users\\Kuroneko\\Documents\\proyecto final\\SGAPI\\SGAPI\\FormActualizaciones.Designer.cs",
+              "RelativeToolTip": "SGAPI\\FormActualizaciones.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAWwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T00:56:35.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormActualizaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kuroneko\\Documents\\proyecto final\\SGAPI\\SGAPI\\FormActualizaciones.cs",
+              "RelativeDocumentMoniker": "SGAPI\\FormActualizaciones.cs",
+              "ToolTip": "C:\\Users\\Kuroneko\\Documents\\proyecto final\\SGAPI\\SGAPI\\FormActualizaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SGAPI\\FormActualizaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T00:56:32.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

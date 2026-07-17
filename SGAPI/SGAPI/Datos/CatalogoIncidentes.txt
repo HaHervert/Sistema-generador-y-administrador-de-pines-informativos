@@ -1,0 +1,109 @@
+Lesionado por percance vehicular entre particulares
+Lesionados por percance vehicular entre particulares
+Lesionado por percance vehicular entre particular y motocicleta
+Lesionados por percance vehicular entre particular y motocicleta
+Lesionado por choque contra objeto fijo
+Lesionados por volcadura
+Lesionado por atropellamiento
+Lesionados por atropellamiento
+Fallecido por percance vehicular
+Fallecidos por percance vehicular
+Persona prensada por percance vehicular
+Lesionado por percance vehicular con unidad de transporte público
+Lesionados por percance vehicular con unidad de transporte público
+Lesionado por percance vehicular con tráiler
+Lesionados por percance vehicular con tráiler
+Motociclista lesionado por derrape
+Motociclista lesionado por percance vehicular
+Ciclista lesionado por percance vehicular
+Peatón lesionado por percance vehicular
+Menor lesionado por percance vehicular
+Persona inconsciente por percance vehicular
+Percance vehicular sin lesionados
+Percance vehicular con daños al municipio
+Percance vehicular con fuga de conductor
+Percance vehicular con vehículo abandonado
+Vehículo incendiado tras percance vehicular
+Vehículo volcado sobre la vía pública
+Vehículo impactado contra poste
+Vehículo impactado contra semáforo
+Vehículo impactado contra finca
+Vehículo impactado contra árbol
+Choque múltiple entre particulares
+Choque entre transporte público y particular
+Choque entre motocicleta y particular
+Choque entre motocicleta y peatón
+Choque entre unidad de carga y particular
+Apoyo vial por manifestación
+Apoyo vial por evento deportivo
+Apoyo vial por evento deportivo en Estadio Akron
+Apoyo vial por evento deportivo en Estadio Jalisco
+Apoyo vial por carrera deportiva
+Apoyo vial por peregrinación
+Apoyo vial por cierre de circulación
+Apoyo vial por obras públicas
+Apoyo vial por inundación
+Apoyo vial por falla de semáforos
+Apoyo vial por vehículo descompuesto
+Apoyo vial por carga pesada
+Apoyo vial por arrastre de vehículo
+Apoyo vial por visita oficial
+Apoyo vial por desfile
+Apoyo vial por operativo vacacional
+Apoyo vial por evento masivo
+Apoyo vial por accidente ferroviario
+Apoyo vial por cable caído
+Manifestación sobre la vía pública
+Concentración de personas sobre la vía pública
+Bloqueo de circulación por manifestantes
+Evento masivo con afectación vial
+Vehículo abandonado sobre la vía pública
+Vehículo sospechoso sobre la vía pública
+Vehículo incendiándose sobre la vía pública
+Camión descompuesto obstruyendo circulación
+Tráiler obstruyendo circulación
+Carga caída sobre la vía pública
+Objeto obstruyendo circulación
+Derrame de combustible sobre la vía pública
+Derrame de aceite sobre la vía pública
+Semáforo derribado por percance vehicular
+Semáforo fuera de servicio
+Falla de semáforos en cruce
+Poste derribado sobre la vía pública
+Árbol caído sobre la vía pública
+Árbol en riesgo de caída
+Rama caída sobre vehículo
+Inundación sobre la vía pública
+Socavón sobre la vía pública
+Cable caído sobre la vía pública
+Incendio en casa habitación
+Incendio en vehículo
+Incendio en lote baldío
+Incendio forestal
+Fuga de gas en domicilio
+Fuga de gas en vía pública
+Explosión en domicilio
+Persona lesionada en vía pública
+Persona inconsciente en vía pública
+Persona agresiva en vía pública
+Persona alterando el orden público
+Persona armada en vía pública
+Persona sospechosa en vía pública
+Persona tirada sobre la vía pública
+Persona fallecida en vía pública
+Intento de suicidio
+Persona amenazando con arrojarse
+Riña con personas lesionadas
+Robo con violencia a conductor de vehículo
+Robo de vehículo con violencia
+Robo a transeúnte
+Hallazgo de vehículo robado
+Recuperación de vehículo robado
+Apoyo para traslado de persona enferma
+Apoyo a unidad médica
+Apoyo a bomberos
+Apoyo a protección civil
+Apoyo a personal de obras públicas
+Apoyo a personal de SIAPA
+Apoyo a personal de CFE
+Apoyo a personal de telecomunicaciones
